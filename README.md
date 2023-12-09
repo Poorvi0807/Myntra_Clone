@@ -4,7 +4,7 @@
 
 **Deployed Link**
 
-https://saurav01myntra.netlify.app/
+https://stately-otter-cbd542.netlify.app/
 
 
 First of all, I want to thank the Masai school for giving me this opportunity to work on a collaborative project and enhance my coding skills.
